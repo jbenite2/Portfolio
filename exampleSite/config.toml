@@ -35,7 +35,7 @@ googleAnalytics = ""
 copyright = ""
 
 # whether to use robots.txt
-# 是否使用 robots.txt
+
 enableRobotsTXT = true
 # whether to use git commit log
 # 是否使用 git 信息
