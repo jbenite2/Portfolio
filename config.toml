@@ -17,7 +17,7 @@
       # title will be shown when you hover on this menu link
       title = ""
     [[menu.main]]
-      weight = 1
+      weight = 2
       identifier = "posts"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
@@ -28,7 +28,7 @@
       # title will be shown when you hover on this menu link
       title = ""
     [[menu.main]]
-      weight = 2
+      weight = 3
       identifier = "tags"
       pre = ""
       post = ""
@@ -36,7 +36,7 @@
       url = "/tags/"
       title = ""
     [[menu.main]]
-      weight = 3
+      weight = 4
       identifier = "categories"
       pre = ""
       post = ""
@@ -79,7 +79,7 @@
       # URL of the LOGO
       logo = ""
       # title name
-      name = "JBENITEZ"
+      name = "JOSE BENITEZ"
       # you can add extra information before the name (HTML format is supported), such as icons
       pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
@@ -88,28 +88,21 @@
       typeit = false
 
   # Footer config
-  # 页面底部信息配置
   [params.footer]
     enable = true
     # Custom content (HTML format is supported)
     custom = ""
     # whether to show Hugo and theme info
-    # 是否显示 Hugo 和主题信息
-    hugo = true
+    hugo = false
     # whether to show copyright info
-    # 是否显示版权信息
     copyright = true
     # whether to show the author
-    # 是否显示作者
     author = true
     # site creation time
-    # 网站创立年份
     since = 2022
     # ICP info only in China (HTML format is supported)
-    # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
     icp = ""
     # license info (HTML format is supported)
-    # 许可协议信息 (支持 HTML 格式)
     license= ""
 
   # Section (all posts) page config
@@ -201,14 +194,14 @@
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = "joselbenitez.pr@gmail.com"
+      gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/headshot.JPG"
+      avatarURL = ""
       # title shown in home page (HTML format is supported)
       # 主页显示的网站标题 (支持 HTML 格式)
       title = "Jose Benitez"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Hello, my name is Jose and this is my portfolio site"
+      subtitle = "Hello, my name is Jose and this is my portfolio site. This is a space to share things I've learned, impactful experiences, and projects built."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
