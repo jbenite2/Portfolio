@@ -1,9 +1,9 @@
-baseURL = "https://example.com"
+baseURL = "https://jbenitez.me"
 
 # theme
 # 主题
 theme = "LoveIt"
-# themes directory
+# themes directory 
 # 主题目录
 themesDir = "../.."
 
