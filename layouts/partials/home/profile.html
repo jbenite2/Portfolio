@@ -12,7 +12,7 @@
 
 {{- $profile := .Site.Params.home.profile -}}
 <div class="home-profile">
-    <a href="http://localhost:1313/about-me/"><img src="/saback.png" alt="Cover Image" width="400" style="border-radius: 05%;"></a>
+    <a href="https://www.jbenitez.me/about-me/"><img src="/saback.png" alt="Cover Image" width="400" style="border-radius: 05%;"></a>
     {{- $avatar := $profile.avatarURL -}}
     {{- with $profile.gravatarEmail -}}
         {{- $avatar = md5 . | printf "https://www.gravatar.com/avatar/%v?s=240&d=mp" -}}
