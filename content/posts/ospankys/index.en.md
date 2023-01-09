@@ -22,7 +22,7 @@ math:
 ---
 
 ### Description
-- When travelling it's always ideal to have a local's suggestions on where to go. Looking up "Top 10 things to do in X place" works and all but nothing like a local's perspective. I feel blessed to call Puerto Rico, a small island located in the Caribbean, my home. Through Islander PR I aim to share what makes Puerto Rico so great from my perspective. I hope you enjoy this blog and make the most of your time in the island. 
+- In Notre Dame, as part of the Databases' semester-long project, my team spotted a real problem in campus and set out to fix it. O'Neill Family Hall's restaurant relied on antiquated methods of structuring their inventory and receiving client-side orders. Our stack was composed of React.js, Node.js, and PlanetScale. We deployed our frontend using Amplify. For our backend, we had nginx running the node script indefinitely serving as the middleware between the client side and the database. 
 
 ### Link to site
 - [Spankys Restaurant](https://ospankys.live)
