@@ -9,7 +9,7 @@ description: "React fundamentals"
 images: []
 resources:
 - name: "featured-image"
-  src: "html.png"
+  src: "reactjs.png"
 
 tags: ["React"]
 categories: ["Educational"]
