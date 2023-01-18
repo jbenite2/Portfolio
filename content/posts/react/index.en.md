@@ -191,6 +191,51 @@ const App = () => {
     )
 }
 ```
-        
+
+### Styling
+- You can style the page using three different methods:
+1) Importing a CSS file
+2) In-line JSX styling (very similar to CSS but instead of ';' at the end of the line put comas to separate; use Camel Case as well so no dashes)
+3) Variable called headingStyle that ultimately has a CSS rule
+
+    ```javascript
+
+    // Way #2
+    import React from 'react'
+    import PropTypes from 'prop-types'
+
+    const Header = (props) => {
+    return (
+        <header>
+            <h1 style={{color: 'red', backgroundColor:'black'}}>{props.title}</h1>
+        </header>
+    )
+    }
+
+    export default Header
+    ```
+
+    ```javascript
+
+    // Way #3
+    import React from 'react'
+    import PropTypes from 'prop-types'
+
+    const Header = (props) => {
+    return (
+        <header>
+            <h1 style={headingStyle}>{props.title}</h1>
+        </header>
+    )
+    }
+
+    const headingStyle = {
+        color: 'red', backgroundColor:'black'
+
+    }
+
+    export default Header
+    ```
+            
 
 
