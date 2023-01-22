@@ -1,9 +1,9 @@
 ---
-weight: 5
+weight: 13
 title: "Linux"
 date: 2023-01-19
 lastmod: 2023-01-19
-draft: false
+draft: true
 author: "Jose Benitez"
 description: "Cool Linux commands"
 images: []
