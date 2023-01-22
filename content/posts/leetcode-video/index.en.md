@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 1
 title: "Leetcode Videos"
 date: 2022-06-10T15:58:26+08:00
 lastmod: 2023-01-006T15:58:26+08:00
