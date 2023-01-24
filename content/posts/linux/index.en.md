@@ -31,4 +31,6 @@ lightgallery: true
      - S = shows the states like (R=running, Z=zombie, D=doing I/O)
 
   8) **ping** = small program that uses ICMP echo request/echo reply messages to test wheter a destination is reachable. sends a small packet 
+     - ping -Rsv <hostname> = forms record of actual route travelled by query and reply
+  9) **traceroute** google.com= basically pings every server in the route to your host address
 
