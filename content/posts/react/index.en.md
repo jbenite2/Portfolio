@@ -236,6 +236,20 @@ const App = () => {
 
     export default Header
     ```
-            
+
+### Semantics UI
+- Buttons
+  ```javascript
+  import React from "react";
+  import { Button, Container } from "semantic-ui-react";
+
+  const ButtonExampleButton = () => (
+    <Container>
+      <Button>Click Here</Button>
+    </Container>
+  );
+
+  export default ButtonExampleButton;
+  ```
 
 
