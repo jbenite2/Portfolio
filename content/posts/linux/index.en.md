@@ -30,4 +30,5 @@ lightgallery: true
      - RES  = amount of resident memory being used by a process in KB 
      - S = shows the states like (R=running, Z=zombie, D=doing I/O)
 
-## Other important info
+  8) **ping** = small program that uses ICMP echo request/echo reply messages to test wheter a destination is reachable. sends a small packet 
+
