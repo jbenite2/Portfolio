@@ -16,7 +16,7 @@ categories: ["Educational"]
 lightgallery: true
 ---
 
-## Commands
+## CLI Commands
   1) **w**  = Shows the users logged into that machine.
   2) **uptime** = shows you how long the system has been running
   3) **ps** = shows a list of running processes in the machine
@@ -33,6 +33,30 @@ lightgallery: true
   8) **ping** = small program that uses ICMP echo request/echo reply messages to test wheter a destination is reachable. sends a small packet 
      - ping -Rsv <hostname> = forms record of actual route travelled by query and reply
   9) **traceroute** google.com= basically pings every server in the route to your host address
-  10) which = shows the full path of (shell) commands.
+  10) **which** = shows the full path of (shell) commands.
     - which gcc for exmample shows the path to the gcc compiler for running C/C++ programs  
-
+## System Calls
+- System calls are executed by kernel of the Operating System. User-space programs can invoke these calls such as those written in C.  More details about these tools can be found by executing 
+   ```bash 
+      man 2 <system call>
+   ```
+  1) **open** = returns a file descriptor (int). Kind of like you need to open a book before you can actually read it
+     ```c
+          int source = open(argv[1], O_RDONLY);
+          int target = open(argv[2], O_WRONLY);
+     ```
+  2) **read** = returns the number of bytes read
+     ```c
+          char buffer[4096];
+          int bytes_read = read(source, buffer, sizeof(buffer));
+     ```
+  3) **write** = returns the number of bytes written to an output file
+     ```c
+          char buffer[4096];
+          int bytes_written = write(target, buffer, bytes_read);
+     ```
+  4) **close** = close files opened previously
+       ```c
+            close(source);
+            close(target);
+       ```
