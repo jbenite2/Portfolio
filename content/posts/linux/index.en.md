@@ -33,4 +33,6 @@ lightgallery: true
   8) **ping** = small program that uses ICMP echo request/echo reply messages to test wheter a destination is reachable. sends a small packet 
      - ping -Rsv <hostname> = forms record of actual route travelled by query and reply
   9) **traceroute** google.com= basically pings every server in the route to your host address
+  10) which = shows the full path of (shell) commands.
+    - which gcc for exmample shows the path to the gcc compiler for running C/C++ programs  
 
