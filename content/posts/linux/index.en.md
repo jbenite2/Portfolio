@@ -35,6 +35,8 @@ lightgallery: true
   9) **traceroute** google.com= basically pings every server in the route to your host address
   10) **which** = shows the full path of (shell) commands.
     - which gcc for exmample shows the path to the gcc compiler for running C/C++ programs  
+  11) **poin** = network security tool that uses the ARP (Address Resolution Protocol) protocol to perform various tasks such as network mapping, service discovery, and vulnerability assessment.
+   - ARP is a protocol used to map an IP address to a physical (MAC) address on a network.-  
 ## System Calls
 - System calls are executed by kernel of the Operating System. User-space programs can invoke these calls such as those written in C.  More details about these tools can be found by executing 
    ```bash 
