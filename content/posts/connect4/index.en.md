@@ -45,5 +45,5 @@ math:
   - Run python file
 
       ```bash
-      ./connect4.py
+      ./path/to/connect4.py
       ```
