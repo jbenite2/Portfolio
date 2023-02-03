@@ -1,5 +1,5 @@
 ---
-weight: 7
+weight: 1
 title: "Connect 4 AI"
 date: 2022-05-10
 lastmod: 2022-05-10
