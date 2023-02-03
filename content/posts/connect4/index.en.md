@@ -22,7 +22,7 @@ math:
 ---
 
 ### Description
-- Developed alongside a group of "preternship" software engineers an unbeatable connect 4 artificial intelligence machine. We demonstrated proficient use of backtracking, recursion, and the Mini-Max Algorithm. 
+- Developed alongside a group of "preternship" software engineers an unbeatable connect 4 artificial intelligence machine. Demonstrated proficient use of backtracking, recursion, and the Mini-Max Algorithm. 
 
 ### Step 1
   - [Click here to download file](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/jbenite2/Connect4/blob/master/connect4.py)
