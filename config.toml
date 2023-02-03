@@ -200,7 +200,7 @@
       # 主页显示的网站标题 (支持 HTML 格式)
       title = "Jose Benitez"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Hello, my name is Jose and this is my portfolio site. This is a space to share things I've learned, impactful experiences, and projects built."
+      subtitle = "Hello, my name is Jose and this is my portfolio site. This is a space to showcase projects and share some experiences. Click the picture above to learn more about me."
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -228,7 +228,7 @@
     Gitlab = ""
     Youtubelegacy = ""
     Youtubecustom = ""
-    Youtubechannel = "joselbenitez.pr"
+    Youtubechannel = "joseluisbenitez994"
     Tumblr = ""
     Quora = ""
     Keybase = ""
@@ -245,7 +245,7 @@
     Xing = ""
     Snapchat = ""
     Soundcloud = ""
-    Spotify = "joselbenitez.pr"
+    Spotify = ""
     Bandcamp = ""
     Paypal = ""
     Fivehundredpx = ""
@@ -290,7 +290,7 @@
     Plume = ""
     HackTheBox = ""
     RootMe= ""
-    Email = ""
+    Email = "joselbenitez.pr@gmail.com"
     Phone = "+1(787)503-9233"
     RSS = ""
 
