@@ -1,6 +1,5 @@
-+++
 buildDraft = false
-+++
+
 [module]
   [module.hugoVersion]
     extended = true
