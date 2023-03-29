@@ -51,7 +51,7 @@ buildDraft = false
       pre = ""
       post = ""
       name = "Resume"
-      url = "/resume.pdf/"
+      url = "/resume.pdf"
       title = ""
 
 [params]
