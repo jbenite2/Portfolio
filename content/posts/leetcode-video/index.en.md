@@ -30,11 +30,11 @@ math:
  - ### Contains Duplicate
     {{< youtube mBLiuQQK7XU >}}
   - ### Product of Array Except Self
-    {{< youtube XbLx-i8lh-0 >}}
+    {{< youtube 1xw7ARw9AsA >}}
   - ### Maximum Subarray
-    {{< youtube vvS5m_lZQyo >}}
+    {{< youtube XbLx-i8lh-0 >}}
   - ### Maximum Product Subarray
-    {{< youtube mBLiuQQK7XU >}}
+    {{< youtube vvS5m_lZQyo >}}
   - ### Three Sum
     {{< youtube Wt0xG7wmttI >}}
   - ### Container with Most Water
@@ -78,7 +78,7 @@ math:
 
     
 ## Strings
-  - ### Longest Repeating Characger Replacement
+  - ### Longest Repeating Character Replacement
     {{< youtube ZQ4RtdSGLzQ >}}
   - ### Group Anagrams
     {{< youtube 1vzsUxrD4zA >}}
