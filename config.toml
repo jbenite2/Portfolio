@@ -45,6 +45,14 @@ buildDraft = false
       name = "Categories"
       url = "/categories/"
       title = ""
+    [[menu.main]]
+      weight = 5
+      identifier = "Resume"
+      pre = ""
+      post = ""
+      name = "Resume"
+      url = "/resume.pdf/"
+      title = ""
 
 [params]
   # site default theme ["auto", "light", "dark"]
