@@ -3,7 +3,7 @@ weight: 5
 title: "CSS"
 date: 2022-12-15
 lastmod: 2023-08-01
-draft: false
+draft: true
 author: "Jose Benitez"
 description: "CSS fundamentals guide."
 images: []

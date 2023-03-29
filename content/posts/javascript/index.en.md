@@ -3,7 +3,7 @@ weight: 5
 title: "JavaScript"
 date: 2022-12-10
 lastmod: 2023-01-08
-draft: false
+draft: true
 author: "Jose Benitez"
 description: "JS fundamentals guide."
 images: []
