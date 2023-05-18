@@ -22,7 +22,9 @@ math:
 ---
 
 ### Description
-- In Notre Dame, as part of the Databases' semester-long project, my team spotted a real problem in campus and set out to fix it. O'Neill Family Hall's restaurant relied in antiquated methods of structuring their inventory and receiving client-side orders. Our stack was composed of React.js, Node.js, and PlanetScale. We deployed our frontend using Amplify. For our backend, we had Nginx running a Node script indefinitely serving as the middleware between the client side and our database. 
+- During my time at Notre Dame, our team embarked on a semester-long project for the Databases course, where we identified and resolved a pressing issue on campus. Our focus was on enhancing the operational efficiency of the restaurant at O'Neill Family Hall, which was still relying on outdated inventory management and client order placement methods.
+- To tackle this challenge, we assembled a robust technology stack consisting of React.js, Node.js, and PlanetScale. Leveraging the power of Amplify, we seamlessly deployed our frontend solution. On the backend, we utilized Nginx to run a Node script continuously, serving as a vital middleware component connecting the client side with our database.
+- By employing this innovative technology stack and implementing streamlined processes, we successfully modernized the inventory management and client order system at O'Neill Family Hall's restaurant, greatly improving its overall operations.
 
 ### Link to site
 - [Spankys Restaurant](https://ospankys.live)

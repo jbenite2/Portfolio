@@ -22,7 +22,8 @@ math:
 ---
 
 ### Description
-- Developed alongside a group of "preternship" software engineers an unbeatable connect 4 artificial intelligence machine. Demonstrated proficient use of backtracking, recursion, and the Mini-Max Algorithm. 
+- Developed an unbeatable Connect 4 AI machine alongside a group of "preternship" software engineers. Utilized backtracking, recursion, and the Mini-Max Algorithm for optimal gameplay.
+- The minimax algorithm is a common technique used in AI to make decisions and determine optimal moves in games. It works by simulating all possible moves and evaluating the outcome of each move to select the best one. 
 
 ### Step 1
   - [Click here to download file](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/jbenite2/Connect4/blob/master/connect4.py)
