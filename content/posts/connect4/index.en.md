@@ -32,7 +32,7 @@ math:
   -  Open the file and add a shebang on the top of it that references your computer's python interpreter
      - If you're using MacOS, this is it:
        ```python
-       #!/usr/bin/env python
+       #!/usr/local/bin/python3
        ```
 
 ### Step 3

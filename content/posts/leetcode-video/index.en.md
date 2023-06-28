@@ -62,6 +62,14 @@ math:
     {{< youtube nQKnuSYuoXM >}}
 
 
+## Binary Search
+  - ### Binary Search
+    {{< youtube S9ZZ0QVrqgY >}}
+  - ### Find Minimum in Rotated Sorted Array
+    {{< youtube 5Rgt3xqn8HM >}}
+  - ### Search a 2D Matrix
+    {{< youtube TUXv4jDCXNM >}}
+
 
 
 ## Linked Lists
