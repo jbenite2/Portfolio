@@ -50,6 +50,10 @@ math:
 ## Graphs
   - ### Number of Islands
     {{< youtube n4f9W4FN6zs >}}
+  - ### Clone Graphs
+    {{< youtube LYhI8-6VWjs >}}
+  - ### Max Area of Island
+    {{< youtube PJxAo9Ckve4 >}}
 
 ## Trees
   - ### Validate Binary Search Tree
