@@ -22,6 +22,10 @@ math:
   enable: true
 ---
 
+## Theory
+- ### DFS Theory
+    {{< youtube Cm5C7vYgpK0 >}}
+
 ## Arrays
  - ### Two Sum
     {{< youtube UvkpNBjdwmc >}}
@@ -39,6 +43,8 @@ math:
     {{< youtube Wt0xG7wmttI >}}
   - ### Container with Most Water
     {{< youtube ifdO40eAcaI >}}
+  - ### Pascal's Triangle
+    {{< youtube xUCRm1ISXGI >}}
 
 
 ## Dynamic Programming
@@ -73,6 +79,11 @@ math:
     {{< youtube 5Rgt3xqn8HM >}}
   - ### Search a 2D Matrix
     {{< youtube TUXv4jDCXNM >}}
+  - ### Binary Tree Postorder Traversal
+    {{< youtube TUXv4jDCXNM >}}
+
+
+    2ta1O73z0ic
 
 
 
