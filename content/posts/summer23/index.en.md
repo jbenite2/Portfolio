@@ -50,5 +50,4 @@ I was able to contribute to the development of the Copia App, a React JS app tha
 ## Ambienta LLC
 Last but not least, I had the pleasure of co-founding a company with Lucas Barreto, a Mechanical Engineer from Notre Dame and a good friend of mine. Together we created Ambienta LLC, a local Puerto Rican company specializing in the design and manufacture of interior and exterior art. We focus on precision-cut patterns and the highest quality finishes. Our products include lamps, decorative panels, and custom mirrors that aim to bring spaces to life using light and curves to provide a unique experience to our clientele. The creation of my first business was an extremely insightful experience that I will definitely leverage in the future when starting other ventures.
 
-  ![Ambienta Logo](./ambientalogo.png)
-![Working](./working.jpg)
+  - ![Ambienta Logo](./ambientalogo.png)
